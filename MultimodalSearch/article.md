@@ -14,26 +14,26 @@
 Often the items we want to search over contain more than just text. For example, they may also contain images or videos. These modalities other than text will often contain a wealth of information that is not captured by the text. By incorporating these other modalities into search, the relevancy of results can be improved as well as unlocking new ways to search. Examples of multimodal search include domains like fashion and e-commerce which may have title, description as well as multiple images displaying the item. This data can also help disambiguate the subject of the image - for example if there are multiple items present like pants and a top, the text can provide the necessary context to identify the correct subject. The information contained in these data across modalities is complementary and rich. 
 
 This articles has three main parts:
-1. [Introduction to Multimodal Search.](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#1-introduction)
-2. [Multimodal Search in Practice.](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#2-multimodal-search-in-practice)
+1. [Introduction to Multimodal Search.](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#1-introduction)
+2. [Multimodal Search in Practice.](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#2-multimodal-search-in-practice)
 
-	2.1. [Multimodal Queries](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#21-multimodal-queries)
+	2.1. [Multimodal Queries](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#21-multimodal-queries)
 
-	2.2. [Negation](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#22-negation)
+	2.2. [Negation](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#22-negation)
 	
-	2.3. [Excluding Low Quality Images](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#23-excluding-low-quality-images)
+	2.3. [Excluding Low Quality Images](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#23-excluding-low-quality-images)
 	
-	2.4. [Searching with Images](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#24-searching-with-images)
+	2.4. [Searching with Images](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#24-searching-with-images)
 	
-	2.5. [Conditional Search with Popular or Liked Items](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#25-conditional-search-with-popular-or-liked-items)
+	2.5. [Conditional Search with Popular or Liked Items](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#25-conditional-search-with-popular-or-liked-items)
 	
-	2.6. [Searching as Prompting](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#26-searching-as-prompting)
+	2.6. [Searching as Prompting](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#26-searching-as-prompting)
 	
-	2.7. [Ranking with Other Signals](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#27-ranking-with-other-signals)
+	2.7. [Ranking with Other Signals](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#27-ranking-with-other-signals)
 	
-	2.8. [Multimodal Entities](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#28-multimodal-entities)
+	2.8. [Multimodal Entities](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#28-multimodal-entities)
 
-3. [Detailed Example (with code)](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md#3-detailed-example)
+3. [Detailed Example (with code)](https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md#3-detailed-example)
 
 <p align="center">
   <img src="assets/example.png"/>
